@@ -5,7 +5,7 @@ This task is Completed under The Sparks Foundation @GRIPJUNE2024 Internship.
 1. HTML
 2. CSS
 3. Bootstrap
-4. Javascript 
+4. JavaScript 
 5. Github
 
 ## Basic Description:
