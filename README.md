@@ -8,7 +8,7 @@ This task is Completed under The Sparks Foundation @GRIPJUNE2024 Internship.
 4. JavaScript 
 5. Github
 
-## Basic Description:
+## Brief Description:
 A Web Application used to transfer virtual money between multiple users.
 
 A Simple Dynamic Website with Following Specs:
