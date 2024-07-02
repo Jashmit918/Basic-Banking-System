@@ -18,4 +18,4 @@ A Simple Dynamic Website with Following Specs:
 4. Flow: Home Page > View All Customers > Select and view one customer > Transfer Money > Select customer to transfer to > View all customers.
 
 ## Website Link:
-https://cyber-warri0r.github.io/Basic-Banking-System/
+https://jashmit918.github.io/Basic-Banking-System/
