@@ -17,17 +17,6 @@ A Simple Dynamic Website with Following specs:
 3. Transaction status: Successful Transaction (Money Transfered Successfully) And Unsuccessful Transaction (due to Insufficient Bank Balance).
 4. Flow: Home Page > View All Customers > Select and view one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-## Installation:
-
-1. Clone the repository:
-   git clone  https://github.com/Jashmit918/Basic-Banking-System
-  
-2. Install dependencies:
-   cd Basic-Banking-System 
-   npm install
-   
-3. Start the development server:
-   npm start
 
 ## Website Link:
 https://jashmit918.github.io/Basic-Banking-System/
