@@ -4,7 +4,7 @@ This task is Completed under The Sparks Foundation @GRIPJUNE2024 Internship.
 ## Technologies and Platforms Used:
 1. HTML
 2. CSS
-3. Bootstrap
+3. Bootstrap Framework
 4. JavaScript 
 5. Github
 
