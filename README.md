@@ -1,4 +1,4 @@
-# Basic Banking System Website
+# Basic Banking System
 This task is Completed under The Sparks Foundation @GRIPJUNE2024 Internship. 
 
 ## Technologies and Platforms Used:
