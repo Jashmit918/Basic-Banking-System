@@ -6,7 +6,8 @@ This task is Completed under The Sparks Foundation @GRIPJUNE2024 Internship.
 2. CSS
 3. Bootstrap Framework
 4. JavaScript 
-5. Github
+5. Git & Github
+6. VS Code
 
 ## Brief Description:
 A Web Application used to transfer virtual money between multiple users.
