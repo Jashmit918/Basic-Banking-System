@@ -20,4 +20,4 @@ A Simple Dynamic Website with Following specs:
 
 
 ## Deployment:
-[https://jashmit918.github.io/Basic-Banking-System/]{Click Here}
+[Click Here](https://jashmit918.github.io/Basic-Banking-System/)
